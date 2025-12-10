@@ -1,4 +1,12 @@
-## Hi there 👋
+# Merhaba 👋 Ben Erva
+
+🎓 Bilgisayar Mühendisliği öğrencisiyim  
+💻 Python ve yapay zeka ile ilgileniyorum  
+🚀 Yazılım projeleri geliştiriyorum
+
+### İletişim
+- GitHub: https://github.com/kullaniciadin
+
 
 <!--
 **Ervanurb/Ervanurb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
