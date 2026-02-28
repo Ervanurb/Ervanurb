@@ -1,24 +1,37 @@
-# Merhaba 👋 Ben Erva
+# Selam! Ben Erva Nur 👋
 
-🎓 Bilgisayar Mühendisliği öğrencisiyim  
-💻 Python ve yapay zeka ile ilgileniyorum  
-🚀 Yazılım projeleri geliştiriyorum
+### 💻 Yazılım Geliştirici | Öğrenci
 
-### İletişim
-- GitHub: https://github.com/kullaniciadin
+Yazılım dünyasında kendimi geliştirmeye, yeni teknolojiler öğrenmeye ve karmaşık problemleri kodla çözmeye odaklanmış biriyim. Genellikle **Java** ve **Python** ekosisteminde vakit geçiriyorum.
 
+---
 
-<!--
-**Ervanurb/Ervanurb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Hakkımda Daha Fazla Bilgi
+- 🔭 Şu an üzerinde çalıştığım konu: **Veri Yapıları ve Algoritmalar**
+- 🌱 Sürekli öğreniyorum: **Backend Development & Yapay Zeka temelleri**
+- 👯 İş birliğine açığım: **Açık kaynak projeler ve yenilikçi fikirler**
+- 💬 Bana şu konularda soru sorabilirsin: **Java, OOP Prensipleri ve Python**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Teknolojiler & Araçlar
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,c,mysql,git,github,vscode,intellij" />
+</p>
+
+---
+
+### 📊 GitHub İstatistiklerim
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ervanurb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ervanurb&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📬 Bana Ulaşın!
+[LinkedIn](https://www.linkedin.com/in/erva-nur-bostanci-664384249/) | [E-posta](mailto:ervanbostanci@outlook.com)
+
+---
