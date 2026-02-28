@@ -17,7 +17,7 @@ Yazılım dünyasında kendimi geliştirmeye, yeni teknolojiler öğrenmeye ve k
 ### 🛠️ Teknolojiler & Araçlar
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,c++,bash,mysql,git,github,vscode,intellij" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,php,bash,mysql,git,github,vscode,intellij" />
 </p>
 
 ---
