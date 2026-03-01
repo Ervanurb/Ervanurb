@@ -61,7 +61,7 @@ Advanced data structures and algorithms
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ervanurb-181717?style=for-the-badge&logo=github)](https://github.com/Ervanurb)
 
-[![Medium](https://img.shields.io/badge/Medium-AI%20Articles-000000?style=for-the-badge&logo=medium)](https://medium.com/@enbostanci)
+[![Medium](https://img.shields.io/badge/Medium-enbostanci-000000?style=for-the-badge&logo=medium)](https://medium.com/@enbostanci)
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ervanbostanci@outlook.com)
 
