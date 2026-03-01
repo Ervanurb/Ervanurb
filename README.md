@@ -1,20 +1,25 @@
-# Selam! Ben Erva Nur 👋
+# Hi there, I'm Erva Nur 👋
+I'm Erva Nur Bostancı, a Computer Engineering student at Bursa Technical University.
 
-### 💻 Yazılım Geliştirici | Öğrenci
+🎓 I am interested in Artificial Intelligence, Machine Learning, data science and Software Development.
 
-Yazılım dünyasında kendimi geliştirmeye, yeni teknolojiler öğrenmeye ve karmaşık problemleri kodla çözmeye odaklanmış biriyim. Genellikle **Java** ve **Python** ekosisteminde vakit geçiriyorum.
-
----
-
-### 🚀 Hakkımda Daha Fazla Bilgi
-- 🔭 Şu an üzerinde çalıştığım konu: **Veri Yapıları ve Algoritmalar**
-- 🌱 Sürekli öğreniyorum: **Backend Development & Yapay Zeka temelleri**
-- 👯 İş birliğine açığım: **Açık kaynak projeler ve yenilikçi fikirler**
-- 💬 Bana şu konularda soru sorabilirsin: **Java, OOP Prensipleri ve Python**
+📊 Currently working on projects related to Machine Learning, NLP, and Retrieval-Augmented Generation (RAG).
 
 ---
 
-### 🛠️ Teknolojiler & Araçlar
+## 📈 Currently Learning
+
+Deep Learning architectures
+
+LLM application development
+
+Model optimization & tuning
+
+Advanced data structures and algorithms
+
+---
+
+## 🛠️ Technologies & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,php,bash,mysql,git,github,vscode,intellij" />
@@ -22,16 +27,44 @@ Yazılım dünyasında kendimi geliştirmeye, yeni teknolojiler öğrenmeye ve k
 
 ---
 
-### 📊 GitHub İstatistiklerim
+## 🤖 AI & Data Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
+
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-Natural_Language_Processing-blue?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-purple?style=for-the-badge)
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ervanurb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ervanurb&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ervanurb&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ervanurb&layout=compact&theme=tokyonight" height="165">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ervanurb&theme=tokyonight">
 </p>
 
 ---
 
-### 📬 Bana Ulaşın!
-[LinkedIn](https://www.linkedin.com/in/erva-nur-bostanci-664384249/) | [E-posta](mailto:ervanbostanci@outlook.com)
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erva-nur-bostanci-664384249/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ervanurb-181717?style=for-the-badge&logo=github)](https://github.com/Ervanurb)
+
+[![Medium](https://img.shields.io/badge/Medium-AI%20Articles-000000?style=for-the-badge&logo=medium)](https://medium.com/@enbostanci)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ervanbostanci@outlook.com)
+
+
 
 ---
