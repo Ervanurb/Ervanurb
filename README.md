@@ -39,18 +39,6 @@ Advanced data structures and algorithms
 ![NLP](https://img.shields.io/badge/NLP-Natural_Language_Processing-blue?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-purple?style=for-the-badge)
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ervanurb&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ervanurb&layout=compact&theme=tokyonight" height="165">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ervanurb&theme=tokyonight">
-</p>
 
 ---
 
