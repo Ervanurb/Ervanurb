@@ -3,7 +3,7 @@ I'm Erva Nur Bostancı, a Computer Engineering student at Bursa Technical Univer
 
 🎓 I am interested in Artificial Intelligence, Machine Learning, data science and Software Development.
 
-📊 Currently working on projects related to Machine Learning, NLP, and Retrieval-Augmented Generation (RAG).
+📊 Currently working on projects related to Machine Learning and NLP.
 
 ---
 
@@ -22,7 +22,7 @@ Advanced data structures and algorithms
 ## 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,php,bash,mysql,git,github,vscode,intellij" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,php,bash,mysql,git,github,vscode" />
 </p>
 
 ---
